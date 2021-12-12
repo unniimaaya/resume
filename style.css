@@ -1,0 +1,59 @@
+
+.row{
+    height: 830px;
+    width: 700px;
+    background-color: rgb(253, 247, 238);
+    border: solid 1px black;
+    margin-left: 150px;
+    margin-top: 10px;
+}
+.box{
+    height: 830px;
+    width: 250px;
+    background-color: rgb(46, 104, 104);
+    border: solid 1px black;
+}
+img{
+    border-radius: 900px;
+    margin-left: 40px;
+}
+h4{
+color: white;
+text-align: center;
+font-size: 15px;
+}
+h6{
+    color: white;
+    font-size: 12px;
+}
+#one{
+    color: white;
+}
+.box1{
+    height: 800px;
+    width: 445px;
+    
+}
+h3{
+   
+    font-size: 22px;
+    color:black;
+    text-align: center;
+   
+}
+label{
+    color: blue;
+}
+#two{
+    background-color: black;
+    color: white;
+}
+#first{
+    font-size: 13px;
+}
+#four{
+    font-size: 15px;
+}
+#list{
+    font-size: 13px;
+}
